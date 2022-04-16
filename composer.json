@@ -1,5 +1,5 @@
 {
-    "name": "madiyarrakhman/pet",
+    "name": "madiyarrakhman/http-framework",
     "autoload": {
         "psr-4": {
             "App\\": "app/",
