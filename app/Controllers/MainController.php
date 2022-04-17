@@ -8,11 +8,11 @@ class MainController extends Controller
 {
     public function main()
     {
-        echo 'Hello World';
+        echo '<h1>Hello World</h1>';
     }
 
     public function home()
     {
-        echo 'Home';
+        echo '<h1>Home</h1>';
     }
 }
